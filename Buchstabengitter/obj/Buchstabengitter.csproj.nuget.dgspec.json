@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaege\\source\\repos\\Buchstabengitter\\Buchstabengitter\\Buchstabengitter.csproj": {}
+    "C:\\Users\\jaege\\Documents\\GitHub\\Buchstabengitter\\Buchstabengitter\\Buchstabengitter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaege\\source\\repos\\Buchstabengitter\\Buchstabengitter\\Buchstabengitter.csproj": {
+    "C:\\Users\\jaege\\Documents\\GitHub\\Buchstabengitter\\Buchstabengitter\\Buchstabengitter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaege\\source\\repos\\Buchstabengitter\\Buchstabengitter\\Buchstabengitter.csproj",
+        "projectUniqueName": "C:\\Users\\jaege\\Documents\\GitHub\\Buchstabengitter\\Buchstabengitter\\Buchstabengitter.csproj",
         "projectName": "Buchstabengitter",
-        "projectPath": "C:\\Users\\jaege\\source\\repos\\Buchstabengitter\\Buchstabengitter\\Buchstabengitter.csproj",
+        "projectPath": "C:\\Users\\jaege\\Documents\\GitHub\\Buchstabengitter\\Buchstabengitter\\Buchstabengitter.csproj",
         "packagesPath": "C:\\Users\\jaege\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaege\\source\\repos\\Buchstabengitter\\Buchstabengitter\\obj\\",
+        "outputPath": "C:\\Users\\jaege\\Documents\\GitHub\\Buchstabengitter\\Buchstabengitter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaege\\AppData\\Roaming\\NuGet\\NuGet.Config",

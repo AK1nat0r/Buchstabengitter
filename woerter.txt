@@ -5,5 +5,5 @@ Public
 True
 Rute
 Richtung
-Ring
+String
 Variable
