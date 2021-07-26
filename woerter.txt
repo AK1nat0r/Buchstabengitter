@@ -1,0 +1,9 @@
+Aggregation
+Assoziation
+Datei
+Public
+True
+Rute
+Richtung
+Ring
+Variable

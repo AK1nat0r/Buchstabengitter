@@ -1,0 +1,13 @@
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\bin\Debug\netcoreapp3.1\Buchstabengitter.exe
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\bin\Debug\netcoreapp3.1\Buchstabengitter.deps.json
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\bin\Debug\netcoreapp3.1\Buchstabengitter.runtimeconfig.json
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\bin\Debug\netcoreapp3.1\Buchstabengitter.runtimeconfig.dev.json
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\bin\Debug\netcoreapp3.1\Buchstabengitter.dll
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\bin\Debug\netcoreapp3.1\Buchstabengitter.pdb
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\obj\Debug\netcoreapp3.1\Buchstabengitter.csproj.AssemblyReference.cache
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\obj\Debug\netcoreapp3.1\Buchstabengitter.AssemblyInfoInputs.cache
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\obj\Debug\netcoreapp3.1\Buchstabengitter.AssemblyInfo.cs
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\obj\Debug\netcoreapp3.1\Buchstabengitter.csproj.CoreCompileInputs.cache
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\obj\Debug\netcoreapp3.1\Buchstabengitter.dll
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\obj\Debug\netcoreapp3.1\Buchstabengitter.pdb
+C:\Users\jaege\source\repos\Buchstabengitter\Buchstabengitter\obj\Debug\netcoreapp3.1\Buchstabengitter.genruntimeconfig.cache
